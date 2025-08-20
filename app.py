@@ -39,7 +39,7 @@ st.write(pd.DataFrame(dict(zip(col,all_values)),index=[1]))
 progress_bar=st.progress(0)
 placeholder=st.empty()
 place=st.empty()
-place.image('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg2enY5cDUwOG55NWw1MDR6dzFqeWJ0anNhdWUzY2Vlc3UyanRjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/avx8Ba7NoFz3g8pFIF/giphy.gif')
+place.image('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjY1bXNwaDB6aHZ5anBramx4eDludDFxaHJicWZ3aWFmY3h1eGpsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZvMnbIiIew7IpW/giphy.gif')
 
 import time
 progress_bar = st.progress(0)
