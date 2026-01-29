@@ -8,7 +8,7 @@ col=['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']
 st.title('California Housing Price Prediction')
 st.image('https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg')
 st.header('Model of Housing Prices To Predict Median House Values In California')
-st.divider()
+st.markdown("<hr>", unsafe_allow_html=True)
 st.subheader('''User Must Enter Given values to predict Price:
 ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']''')
 st.sidebar.title('Select House Features 🏠')
